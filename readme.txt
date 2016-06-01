@@ -3,4 +3,4 @@ Git is free software.
 this is a new line.
 Git has a mutable index called stage.
 fuck fuck fuck
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
